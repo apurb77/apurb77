@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @apurb77
 - 👀 I’m interested in learning new skills.
-- 🌱 I’m currently started learning c++ with dsa.
 - 📫 How to reach me apurbraj77@gmail.com
 
 <!---
